@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "array.one_d.arraylist",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "twopointertechnic",
+      "request": "launch",
+      "mainClass": "array.one_d.twopointertechnic",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "rotate",
+      "request": "launch",
+      "mainClass": "array.one_d.rotate",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "domy",
+      "request": "launch",
+      "mainClass": "array.one_d.domy",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "twosum",
+      "request": "launch",
+      "mainClass": "array.one_d.twosum",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "secondlargest",
+      "request": "launch",
+      "mainClass": "array.one_d.secondlargest",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "insert",
+      "request": "launch",
+      "mainClass": "array.one_d.insert",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "add",
+      "request": "launch",
+      "mainClass": "array.one_d.add",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "display",
+      "request": "launch",
+      "mainClass": "array.one_d.display",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hplep/OneDrive/Desktop/dsa/array/one_d",
+      "program": "c:/Users/hplep/OneDrive/Desktop/dsa/array/one_d/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
