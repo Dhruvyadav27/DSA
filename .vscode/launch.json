@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "VowelsinString",
+      "request": "launch",
+      "mainClass": "array.string.VowelsinString",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "basic",
+      "request": "launch",
+      "mainClass": "array.string.basic",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "arraylist",
       "request": "launch",
       "mainClass": "array.one_d.arraylist",
