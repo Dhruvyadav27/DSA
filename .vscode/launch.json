@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "builtinmethod2",
+      "request": "launch",
+      "mainClass": "array.string.builtinmethod2",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "builtinmethod",
+      "request": "launch",
+      "mainClass": "array.string.builtinmethod",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "VowelsinString",
       "request": "launch",
       "mainClass": "array.string.VowelsinString",
