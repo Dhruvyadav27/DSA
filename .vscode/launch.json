@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "builtinmethod3",
+      "request": "launch",
+      "mainClass": "array.string.builtinmethod3",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "builtinmethod2",
       "request": "launch",
       "mainClass": "array.string.builtinmethod2",
