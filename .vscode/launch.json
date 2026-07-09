@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AllSubString",
+      "request": "launch",
+      "mainClass": "array.string.AllSubString",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "AnyDataTypeToString",
       "request": "launch",
       "mainClass": "array.string.AnyDataTypeToString",
