@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringBuilderMethod",
+      "request": "launch",
+      "mainClass": "array.string.StringBuilderMethod",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "Equals",
+      "request": "launch",
+      "mainClass": "array.string.Equals",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "AllSubString",
       "request": "launch",
       "mainClass": "array.string.AllSubString",
