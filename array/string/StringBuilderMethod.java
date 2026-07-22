@@ -26,5 +26,8 @@ public class StringBuilderMethod {
         String s1 ="mar";
         System.out.println(s==s1);
         System.out.println(s.equals(s1));
+
+        s.toCharArray();
+        System.out.println(s.toCharArray());
     }
 }

@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ForEachLoop",
+      "request": "launch",
+      "mainClass": "array.two_d.ForEachLoop",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "ColomnwiseElenentPriting",
+      "request": "launch",
+      "mainClass": "array.two_d.ColomnwiseElenentPriting",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "MaxSumRow",
+      "request": "launch",
+      "mainClass": "array.two_d.MaxSumRow",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "MaxNo",
+      "request": "launch",
+      "mainClass": "array.two_d.MaxNo",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "array.two_d.Sum",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "OutputIn2D",
+      "request": "launch",
+      "mainClass": "array.two_d.OutputIn2D",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "StringBuilderMethod",
       "request": "launch",
       "mainClass": "array.string.StringBuilderMethod",
