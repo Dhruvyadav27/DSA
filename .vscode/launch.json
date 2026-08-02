@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SplitArray",
+      "request": "launch",
+      "mainClass": "BinarySearch.SplitArray",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "Transpose",
       "request": "launch",
       "mainClass": "array.two_d.Transpose",
