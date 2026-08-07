@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "basic",
+      "request": "launch",
+      "mainClass": "recursion.basic",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "PrintArray",
+      "request": "launch",
+      "mainClass": "recursion.PrintArray",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
+      "name": "Print10Times",
+      "request": "launch",
+      "mainClass": "recursion.Print10Times",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "SplitArray",
       "request": "launch",
       "mainClass": "BinarySearch.SplitArray",
