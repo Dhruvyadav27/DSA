@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ElementCount",
+      "request": "launch",
+      "mainClass": "recursion.ElementCount",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "basic",
       "request": "launch",
       "mainClass": "recursion.basic",
