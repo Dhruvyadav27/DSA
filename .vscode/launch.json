@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SinglyLinkedlist",
+      "request": "launch",
+      "mainClass": "linkedlist.SinglyLinkedlist",
+      "projectName": "dsa_a0bb53b3"
+    },
+    {
+      "type": "java",
       "name": "ElementCount",
       "request": "launch",
       "mainClass": "recursion.ElementCount",
