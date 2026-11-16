@@ -54,7 +54,7 @@ It represents my progress, consistency, and commitment to becoming a better prob
 **Dhruv Yadav**
 
 - GitHub: [@Dhruvyadav27](https://github.com/Dhruvyadav27)
-- LeetCode: [Dhruv_yadav122](https://leetcode.com/u/Dhruv_yadav122/)
+- LeetCode: [Dhruv_yadav122](https://leetcode.com/u/Dhruvyadav27/)
 - GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/profile/ymulayamk77e/)
 
 ---
